@@ -1,9 +1,31 @@
 
-.homepage {
-  background-color: violet;
+h1 {
   font-size: 50px;
 }
 
-.header {
-  background-color: violet;
+h2 {
+  font-size: 40px;
 }
+
+h3 {
+  font-size: 30px;
+}
+
+.home {
+  background-color: violet;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pages {
+  background-color: violet;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-list {
+  font-size: 20px;
+}
+
+.back-link {
+  font-size: 20px;
+  font-weight: bold;
+  }
